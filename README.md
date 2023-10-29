@@ -1,1 +1,0 @@
-# symfony-first-project
